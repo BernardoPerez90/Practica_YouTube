@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding-top: 0px;
+}
+html{
+    background-image: url(https://th.bing.com/th/id/R.26913f9bea9bc9759c740b4821c12acf?rik=Uc4szl9WHkeSqw&riu=http%3a%2f%2fpapers.co%2fwallpaper%2fpapers.co-wa92-light-abstract-line-digital-pattern-background-dark-36-3840x2400-4k-wallpaper.jpg&ehk=flKJSpFlSPjzooeRaNMTeITzYwYD4iEX8YtDoZ3Xh2o%3d&risl=&pid=ImgRaw&r=0);
+    background-color: #302e2e;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fila{
+    padding-top: 10dvw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: auto;
+    gap: 5px;
+    margin-top: 95px;
+}
+.img{
+    border-radius: 50PX;
+    width: 180px;
+    height: 120px;
+}
+.titulo{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.url{
+    width: 20px;
+    height: 20px;
+    border-radius: 90px;
+}
+p{
+    word-spacing: 1px;
+}
+.visitas{
+    width: 100%;
+    text-align: left;
+}
+.video{
+    font-size: 10px;
+}
+.inf{
+    font-size: 9px;
+    width: 90%;
+    color: #9c9a9a;
+}
+.vistas{
+    font-size: 12px;
+    color: #9c9a9a;
+}
+
+#centrar{
+    align-items: center;
+    justify-content: center;
+}
